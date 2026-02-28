@@ -5,7 +5,7 @@
 """
 # Input
 circle_radius = int(input("The radius of the circle: "))
-rectange_lenght = int(input("The length of the rectangle: "))
+rectangle_lenght = int(input("The length of the rectangle: "))
 rectangle_width = int(input("The width of the rectangle: "))
 octagon_side = int(input("A side length of the octagon: "))
 
